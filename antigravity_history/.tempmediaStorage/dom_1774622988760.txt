@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+GeoKanban
+v3.15
+Breakwater Fleet Tracker — Genova
+operation admin
+[0] (931,63)<button class='w-10 h-10 lg:w-12 lg:h-12 rounded-full bg-gradient-to-br from-surface-low to-surface-lowest flex items-center justify-center border border-white shadow-sm active:scale-90 transition-transform hover:shadow-md transition-all' />
+	[1] (931,63)<div >G />
+Vessel Activity
+58
+Submitted Activity
+3/58
+Schedule
+Rewind
+Production Targets
+DB Manager
+[2] (121,177)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                bg-primary text-white shadow-lg shadow-primary/30 -translate-y-0.5
+              ' />
+	[3] (121,177)<div  />
+		[4] (132,177)<span >Users />
+User Management
+Gestione accessi flotta e permessi granulari
+[5] (779,321)<button class='w-12 h-12 rounded-full bg-white border border-surface-low/30 flex items-center justify-center text-on-surface/40 hover:text-primary transition-all shadow-sm' />
+[6] (878,321)<button class='flex items-center gap-3 bg-primary hover:bg-primary-dark text-white h-12 px-8 rounded-full text-[10px] font-black uppercase tracking-widest transition-all shadow-xl shadow-primary/10 hover:-translate-y-0.5'>Add New User />
+Total Users
+10
+Online Now
+1
+Blocked
+0
+Crew Members
+8
+[7] (226,612)<input class='bg-transparent border-none outline-none text-[11px] font-bold text-on-surface w-full placeholder:text-on-surface/20' placeholder='Search users...' />
+[8] (760,612)<select class='bg-white border border-surface-low/30 px-6 py-3 rounded-full text-[9px] font-black uppercase text-on-surface outline-none' />
+[9] (883,612)<select class='bg-white border border-surface-low/30 px-6 py-3 rounded-full text-[9px] font-black uppercase text-on-surface outline-none' />
+[10] (500,1669)<div class='bg-white/50 backdrop-blur-md rounded-[3rem] p-4 lg:p-10 border border-white shadow-sm overflow-x-auto mt-4' scrollable='true' />
+	Dati Utente
+	Ruolo & Compagnia
+	Status
+	Permessi
+	Azioni
+	C
+	Crew Admin Novamarine
+	indovinogenoabreakwater@novamarinecarriers.com
+	Crew Admin
+	NovaMarineCarriers
+	NEVER
+	[11] (846,916)<button class='w-10 h-10 rounded-full bg-surface-low/20 flex items-center justify-center text-on-surface/20 hover:bg-primary/10 hover:text-primary transition-all' title='Modifica Profilo' />
+	[12] (884,916)<button class='w-10 h-10 rounded-full flex items-center justify-center transition-all bg-surface-low/20 text-red-400 hover:bg-red-50 hover:text-red-500' title='Blocca Accesso Utente' />
+
+</current_dom>

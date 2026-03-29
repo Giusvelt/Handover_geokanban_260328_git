@@ -1,0 +1,102 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,129)<div  />
+	GeoKanban
+	v3.15
+	Breakwater Fleet Tracker — Genova
+	crew
+	[1] (943,68)<button class='w-10 h-10 lg:w-12 lg:h-12 rounded-full bg-gradient-to-br from-surface-low to-surface-lowest flex items-center justify-center border border-white shadow-sm active:scale-90 transition-transform hover:shadow-md transition-all' />
+		[2] (943,68)<div >G />
+	[3] (103,193)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+		[4] (103,179)<div  />
+			[5] (112,179)<span >Vessel Activity />
+		[6] (103,210)<span >19 />
+	[7] (227,190)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                bg-primary text-white shadow-lg shadow-primary/30 -translate-y-0.5
+              ' />
+		[8] (227,176)<div  />
+			[9] (237,176)<span >Submitted Activity />
+		[10] (227,207)<span >3/19 />
+	[11] (347,193)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+		[12] (347,193)<div  />
+			[13] (357,193)<span >Schedule />
+	[14] (160,361)<input class='bg-transparent border-none outline-none text-[11px] font-bold text-on-surface w-full placeholder:text-on-surface/20 uppercase tracking-tight' placeholder='Search activities...' />
+	[15] (721,361)<select class='bg-transparent pl-4 pr-2 py-2 text-[9px] font-black uppercase text-on-surface outline-none cursor-pointer hover:bg-surface-low/10 transition-colors' />
+	[16] (788,361)<select class='bg-transparent pl-2 pr-4 py-2 text-[9px] font-black uppercase text-on-surface outline-none cursor-pointer hover:bg-surface-low/10 transition-colors' />
+	[17] (876,361)<button class='flex items-center gap-2 bg-white hover:bg-slate-50 border border-surface-low/30 px-4 py-2 rounded-xl text-[9px] font-black text-on-surface/50 uppercase tracking-widest transition-all shadow-sm'>Export Certified />
+	[18] (941,361)<button class='w-9 h-9 bg-white border border-surface-low/30 text-on-surface/20 rounded-full flex items-center justify-center transition-all hover:text-primary hover:border-primary/30 shadow-sm ' />
+	Ref
+	Vessel
+	Activity
+	ATA / ATD
+	Pilots (In/Out)
+	Moor (In/Out)
+	Tugs (U / S
+	>
+	E)
+	Note / Narrative
+	Certified Hash
+	Status
+	MSG
+	1
+	ANNAMARIA Z
+	Navigation
+	05/03/26, 07:15
+	05/03/26, 12:15
+	—
+	—
+	—
+	—
+	0
+	U
+	—
+	>
+	—
+	—
+	PENDING
+	[19] (927,573)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-blue-900 text-white hover:bg-blue-800' />
+	2
+	ANNAMARIA Z
+	Port Operations
+	03/03/26, 14:30
+	04/03/26, 10:30
+	—
+	—
+	—
+	—
+	0
+	U
+	—
+	>
+	—
+	—
+	PENDING
+	[20] (927,659)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+	3
+	ANNAMARIA Z
+	Navigation
+	02/03/26, 12:15
+	02/03/26, 15:00
+	—
+	—
+	—
+	—
+	0
+	U
+	—
+	>
+	—
+	—
+	PENDING
+	[21] (927,745)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+
+</current_dom>

@@ -1,0 +1,128 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+GeoKanban
+v3.15
+Breakwater Fleet Tracker — Genova
+crew
+[0] (943,68)<button class='w-10 h-10 lg:w-12 lg:h-12 rounded-full bg-gradient-to-br from-surface-low to-surface-lowest flex items-center justify-center border border-white shadow-sm active:scale-90 transition-transform hover:shadow-md transition-all' />
+	[1] (943,68)<div >G />
+3
+ANNAMARIA Z
+Unloading
+Scanno Diga
+05/03/26, 15:00
+05/03/26, 16:15
+1h 15 m
+Edit
+4
+ANNAMARIA Z
+Unloading
+Scanno Diga
+05/03/26, 13:30
+05/03/26, 14:45
+1h 15 m
+Edit
+5
+ANNAMARIA Z
+Navigation
+—
+05/03/26, 12:15
+05/03/26, 13:30
+1h 15 m
+[2] (804,221)<div  />
+[3] (836,221)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[4] (927,221)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+6
+ANNAMARIA Z
+Unloading
+Scanno Diga
+05/03/26, 11:15
+05/03/26, 12:15
+1h 0 m
+[5] (804,307)<div  />
+[6] (836,307)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[7] (927,307)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-blue-900 text-white hover:bg-blue-800' />
+7
+ANNAMARIA Z
+Loading
+Vado Scassa Nord
+04/03/26, 13:45
+05/03/26, 07:15
+17h 30 m
+[8] (804,393)<div  />
+[9] (836,393)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[10] (927,393)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-blue-900 text-white hover:bg-blue-800' />
+8
+ANNAMARIA Z
+Navigation
+—
+04/03/26, 10:30
+04/03/26, 13:45
+3h 15 m
+[11] (804,480)<div  />
+[12] (836,480)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[13] (927,480)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-blue-900 text-white hover:bg-blue-800' />
+9
+ANNAMARIA Z
+Loading
+Vado Scassa Nord
+02/03/26, 15:00
+03/03/26, 14:30
+23h 30 m
+[14] (804,566)<div  />
+[15] (836,566)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[16] (927,566)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+10
+ANNAMARIA Z
+Unloading
+Scanno Diga
+02/03/26, 10:30
+02/03/26, 12:15
+1h 45 m
+[17] (804,652)<div  />
+[18] (836,652)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[19] (927,652)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+11
+ANNAMARIA Z
+Unloading
+Scanno Diga
+02/03/26, 08:45
+02/03/26, 10:00
+1h 15 m
+[20] (804,739)<div  />
+[21] (836,739)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[22] (927,739)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+12
+ANNAMARIA Z
+Navigation
+—
+02/03/26, 07:30
+02/03/26, 08:30
+1h 0 m
+[23] (804,825)<div  />
+[24] (836,825)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[25] (927,825)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+13
+ANNAMARIA Z
+Transit
+PRA
+01/03/26, 16:15
+02/03/26, 07:30
+15h 15 m
+[26] (804,911)<div  />
+[27] (836,911)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[28] (927,911)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+14
+ANNAMARIA Z
+Navigation
+—
+01/03/26, 13:15
+01/03/26, 16:15
+3h 0 m
+[29] (804,998)<div  />
+[30] (836,998)<button class='flex items-center gap-1 px-3 py-1 bg-primary/10 text-primary rounded-lg text-[9px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all group'>Edit />
+[31] (927,998)<button class='w-8 h-8 rounded-full inline-flex items-center justify-center transition-all shadow-sm bg-surface-low text-on-surface/20 hover:bg-secondary hover:text-white' />
+
+</current_dom>

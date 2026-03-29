@@ -1,0 +1,61 @@
+GeoKanban
+v3.15
+Breakwater Fleet Tracker — Genova
+operation admin
+[0] (943,68)<button class='w-10 h-10 lg:w-12 lg:h-12 rounded-full bg-gradient-to-br from-surface-low to-surface-lowest flex items-center justify-center border border-white shadow-sm active:scale-90 transition-transform hover:shadow-md transition-all' />
+	[1] (943,68)<div >G />
+Live Fleet Tracker
+[2] (500,547)<div class='map-tiles-contrast leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom' />
+	[3] (514,500)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[4] (498,475)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[5] (520,560)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[6] (538,556)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[7] (382,564)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[8] (905,787)<div >© CartoDB />
+		[9] (883,787)<a href='https://leafletjs.com' title='A JavaScript library for interactive maps'>Leaflet />
+		|
+		© CartoDB
+[10] (104,931)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                bg-primary text-white shadow-lg shadow-primary/30 -translate-y-0.5
+              ' />
+	[11] (104,917)<div  />
+		[12] (114,917)<span >Vessel Activity />
+	[13] (104,948)<span >58 />
+[14] (228,934)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[15] (228,920)<div  />
+		[16] (237,920)<span >Submitted Activity />
+	[17] (228,951)<span >3/58 />
+[18] (347,934)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[19] (347,934)<div  />
+		[20] (357,934)<span >Schedule />
+[21] (454,934)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[22] (454,934)<div  />
+		[23] (463,934)<span >Rewind />
+[24] (574,934)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[25] (574,934)<div  />
+		[26] (584,934)<span >Production Targets />
+[27] (695,934)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[28] (695,934)<div  />
+		[29] (704,934)<span >DB Manager />
+[30] (801,934)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[31] (801,934)<div  />
+		[32] (810,934)<span >Users />
