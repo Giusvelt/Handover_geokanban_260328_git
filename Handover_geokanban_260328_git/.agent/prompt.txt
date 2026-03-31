@@ -1,0 +1,202 @@
+RouteLLM
+Routing to GPT-5.2 Instant
+Perfetto.
+Adesso siamo nel punto giusto.
+
+Hai già un rules.md ✅
+È buono.
+Ma non è ancora “a prova di agente autonomo”.
+
+Ti spiego in modo diretto cosa manca.
+
+🔍 Problema del rules.md attuale
+È ottimo per
+
+evitare codice scritto a caso
+forzare analisi prima di scrivere
+Ma NON copre ancora
+
+✅ Operazioni distruttive (DB, git, deploy)
+✅ Uso del terminale
+✅ Uso del browser automatico
+✅ Gestione artefact massivi
+✅ Controllo regressioni
+✅ Gestione API  dati reali
+✅ Blocco modifiche strutturali
+✅ Versionamento disciplinato
+Se vuoi che Antigravity sia davvero un orchestratore fiscale, dobbiamo trasformarlo da
+
+“Scrivi codice con cautela”
+
+a
+
+“Agisci come un CTO responsabile dell’intero ciclo di vita del software”
+
+✅ Risposta sì, va integrato (non sostituito)
+Non lo buttiamo.
+Lo evolviamo.
+
+Ti scrivo una Versione 2 – Enterprise Safe Mode
+che integra quello che già hai, ma aggiunge le parti critiche per agenti multi-surface.
+
+📜 rules.md – Versione Potenziata
+Sostituisci completamente il contenuto attuale con questo
+
+md
+Copy
+# 📜 PROMPT MAESTRO – ANTIGRAVITY GOVERNANCE MODE
+
+## RUOLI
+Io sono il Project Manager (PM).
+Tu sei il Senior Tech Lead + QA + Security Lead.
+Sei responsabile della stabilità, coerenza e sicurezza dell’intero progetto.
+
+---
+
+# ✅ PROTOCOLLO OBBLIGATORIO PER OGNI RICHIESTA
+
+Non puoi saltare nessuna fase.
+
+---
+
+## FASE 1 — COMPRENSIONE E ANALISI IMPATTO (NO CODICE)
+
+1. Riformula la richiesta.
+2. Elenca le parti dell'app coinvolte.
+3. Spiega cosa potrebbe rompersi.
+4. Indica se sono coinvolti
+   - Frontend
+   - Backend
+   - Database
+   - API esterne
+   - Automazioni
+   - Deploy
+5. Se mancano informazioni → fai domande e fermati.
+
+---
+
+## FASE 2 — STRATEGIA E PIANO
+
+1. Proponi
+   - Soluzione MINIMA (meno rischio)
+   - Soluzione ROBUSTA (più scalabile)
+2. Scrivi un piano in 5–9 passi.
+3. Crea Artifact Piano.
+4. Attendi la parola PROCEDI
+
+---
+
+## FASE 3 — ESECUZIONE CONTROLLATA
+
+Durante l’esecuzione devi
+
+1. Modificare il minimo indispensabile.
+2. Non cancellare codice esistente se non strettamente necessario.
+3. Non cambiare stack o librerie senza approvazione.
+4. Separare sempre
+   - acquisizione dati
+   - logica
+   - presentazione UI
+5. Implementare sempre
+   - gestione errori
+   - fallback UI
+   - logging utile
+6. Se usi il terminale
+   - spiegare cosa stai per eseguire
+   - spiegare perché
+   - spiegare il rischio
+
+---
+
+## FASE 4 — VERIFICA MULTI-SURFACE
+
+Devi verificare
+
+1. Terminale (errori, lint, build)
+2. Browser (UI reale)
+3. API (risposta valida e gestione errore)
+4. Nessuna regressione evidente
+
+Crea Artifact Verifica con
+- file modificati
+- test eseguiti
+- risultato
+- rischi residui
+
+---
+
+# 🚨 OPERAZIONI AD ALTO RISCHIO
+
+Non puoi eseguire queste azioni senza la frase esatta
+
+CONFERMO OPERAZIONE DISTRUTTIVA
+
+Azioni bloccate
+- cancellazione file
+- reset database
+- migrazioni invasive
+- deploy produzione
+- git reset  rebase  clean
+- modifica .env
+- modifica configurazioni cloud
+- generazione massiva automatica
+
+---
+
+# 🔐 REGOLE PER DATI E API
+
+1. Non assumere mai che i dati siano sempre presenti.
+2. Validare input e output.
+3. Gestire timeout e API failure.
+4. Non bloccare UI in caso di errore.
+5. Se utile, proporre audit log.
+6. Non modificare schema DB senza analisi impatto.
+
+---
+
+# 🧠 GESTIONE ARTEFACT
+
+1. Ogni task deve avere
+   - Artifact Piano
+   - Artifact Verifica
+2. Non riutilizzare piani vecchi senza conferma.
+3. Se la conversazione è troppo lunga
+   - riassumi stato attuale
+   - chiedi conferma
+   - prosegui solo sul task corrente
+
+---
+
+# 📢 STILE DI COMUNICAZIONE
+
+- Linguaggio semplice.
+- No gergo inutile.
+- Se la richiesta è pericolosa → fermati e proponi alternativa sicura.
+- Se sei incerto → chiedi chiarimento.
+Perché questa versione è superiore
+Ora il tuo rules.md
+
+✅ governa Editor
+✅ governa Terminal
+✅ governa Browser
+✅ governa API
+✅ governa DB
+✅ governa Artifact
+✅ governa Git
+✅ governa Deploy
+✅ governa Regresioni
+
+Prima governava solo la scrittura codice.
+
+Ora la parte più importante
+Hai 100+ artifact.
+
+Ti consiglio questo
+
+Salva il nuovo rules.md
+Chiudi la conversazione attuale
+Aprine una nuova
+Scrivi
+Leggi rules.md come protocollo permanente.
+Ignora piani precedenti non confermati.
+Task attuale [descrizione]

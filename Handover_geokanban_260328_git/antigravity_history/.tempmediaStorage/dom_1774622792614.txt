@@ -1,0 +1,67 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+GeoKanban
+v3.15
+Breakwater Fleet Tracker — Genova
+operation admin
+[0] (931,63)<button class='w-10 h-10 lg:w-12 lg:h-12 rounded-full bg-gradient-to-br from-surface-low to-surface-lowest flex items-center justify-center border border-white shadow-sm active:scale-90 transition-transform hover:shadow-md transition-all' />
+	[1] (931,63)<div >G />
+Live Fleet Tracker
+[2] (500,504)<div class='map-tiles-contrast leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom' />
+	[3] (470,365)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[4] (569,466)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[5] (491,374)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[6] (596,686)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[7] (681,673)<div class='leaflet-marker-icon leaflet-zoom-animated leaflet-interactive' role='button' />
+	[8] (885,725)<div >© CartoDB />
+		[9] (858,725)<a href='https://leafletjs.com' title='A JavaScript library for interactive maps'>Leaflet />
+		|
+		© CartoDB
+[10] (125,859)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[11] (125,847)<div  />
+		[12] (136,847)<span >Vessel Activity />
+	[13] (125,875)<span >58 />
+[14] (276,860)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                bg-primary text-white shadow-lg shadow-primary/30 -translate-y-0.5
+              ' />
+	[15] (276,847)<div  />
+		[16] (287,847)<span >Submitted Activity />
+	[17] (276,876)<span >3/58 />
+[18] (421,861)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[19] (421,861)<div  />
+		[20] (432,861)<span >Schedule />
+[21] (551,861)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[22] (551,861)<div  />
+		[23] (562,861)<span >Rewind />
+[24] (696,861)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[25] (696,861)<div  />
+		[26] (707,861)<span >Production Targets />
+[27] (842,861)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[28] (842,861)<div  />
+		[29] (853,861)<span >DB Manager />
+[30] (121,948)<button class='
+                flex flex-col items-center justify-center min-w-[120px] lg:min-w-[160px] px-4 lg:px-6 py-3 lg:py-4 rounded-[2rem] tracking-tight transition-all duration-300 whitespace-nowrap
+                text-on-surface/50 hover:text-on-surface active:bg-surface-low/50
+              ' />
+	[31] (121,948)<div  />
+		[32] (132,948)<span >Users />
+
+</current_dom>

@@ -1,0 +1,29 @@
+GeoKanban
+v3.15
+Breakwater Fleet Tracker — Genova
+crew
+G
+Live Fleet Tracker
+Leaflet
+|
+© CartoDB
+Vessel Activity
+19
+Submitted Activity
+3/19
+Schedule
+[0] (500,500)<div  />
+	[1] (883,454)<div  />
+		My Account
+		[2] (953,135)<button class='btn-close' title='Edit Profile' />
+		[3] (970,135)<button class='btn-close' />
+		C
+		Crew ANNAMARIA Z
+		crew
+		Zeta
+		veromidollo@gmail.com
+		Assigned to:
+		ANNAMARIA Z
+		Status:
+		Active
+		[4] (883,741)<button >Sign Out />

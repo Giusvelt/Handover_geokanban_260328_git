@@ -1,0 +1,40 @@
+﻿8e04c5a - Giuseppe, 2 days ago : fix(desktop): filter submitted activity tab to hide non-submitted entries
+c71e941 - Giuseppe, 3 days ago : fix(mobile): show v3.11 version marker in mobile header
+ff0f367 - Giuseppe, 3 days ago : chore: add v3.11 marker to header for cache verification
+bbeeef7 - Giuseppe, 3 days ago : fix(crew): restore long-press mobile experience while keeping direct edit button
+99da8c0 - Giuseppe, 3 days ago : fix(crew): stabilize crew UX with direct edit, filters, and unified 'Submitted Activity' naming
+a533588 - Giuseppe, 3 days ago : feat(restore): surgical restore of Production Targets and DB Manager from origin repo while keeping Crew mobile fixes
+459fe3d - Giuseppe, 3 days ago : fix(sync): emergency UI reset and yellow header for sync test
+f859269 - Giuseppe, 3 days ago : fix(core): absolute sync of brand, permissions and engine logic
+161e637 - Giuseppe, 3 days ago : feat(brand): integrated new GK logo and hardened Admin UI logic
+dd11b18 - Giuseppe, 3 days ago : fix(ui): absolute removal of EDIT button for Admin roles (hard-coded restriction)
+54e3210 - Giuseppe, 3 days ago : fix(sql): finalized surgical RLS script based on real schema audit
+c9f67ce - Giuseppe, 3 days ago : fix(sql): finalized 999_master_foundation_sync.sql with vessel_tracking and full engine components
+5e653c0 - Giuseppe, 3 days ago : fix(sql): remove vessel_positions reference from RLS migration (table does not exist)
+839f41a - Giuseppe, 3 days ago : security(critical): RLS on all public tables - fixes Supabase alert rls_disabled_in_public
+741ae17 - Giuseppe, 3 days ago : fix(phase20): Activity Submitted tab rename, badge indicator, EDIT only for crew, blue msg indicator, View for admin
+1a0e573 - Giuseppe, 3 days ago : docs: Move enterprise brochure to public for live access
+84ab4bf - Giuseppe, 3 days ago : feat: Enterprise Audit Trail (Phase 18) and Technical Branding (Phase 19)
+facdb59 - Giuseppe, 3 days ago : feat: implement Phase 18 Audit Trail & Device Fingerprinting
+9660975 - Giuseppe, 3 days ago : chore: cleanup root directory, move obsolete scripts and docs
+59ce1ee - Giuseppe, 3 days ago : fix: remove duplicate clock icon in TimeInput
+ffed7dd - Giuseppe, 3 days ago : feat: implement Nautical Time Picker (Phase 17)
+706e3a7 - Giuseppe, 3 days ago : fix: re-enable Phase 14 fast-lane KPI logic
+a684eb5 - Giuseppe, 3 days ago : fix: DataContext undefined reference crash & feat: Phase 15 VesselActivity UI 20m suppressor plugin
+cf1d740 - Giuseppe, 3 days ago : feat: phase 14 frontend refactoring for SQL BI materialized views
+f5247f1 - Giuseppe, 4 days ago : feat: message counter only shows unread messages from counterparty
+b483c1a - Giuseppe, 4 days ago : feat: unify mobile and desktop logbook using responsive LogbookEntryModal
+3be8b4e - Giuseppe, 4 days ago : feat: unify desktop logbook modal and add extensive IN/OUT maneuver fields
+50f64a2 - Giuseppe, 4 days ago : feat: use explicit Edit button for logbook in vessel activity tab
+93194af - Giuseppe, 4 days ago : feat: unlock vessel activity tab for crew desktop view and hide admin kpis
+224ba40 - Giuseppe, 4 days ago : fix: restore mmsi auto-fallback from vessels table to resolve missing crew activities
+0f7fe07 - Giuseppe, 4 days ago : feat: add delete vessel command in UI to solve clones issue
+356af5e - Giuseppe, 4 days ago : fix: add vercel.json to resolve 404 on SPA refresh
+c83c621 - Giuseppe, 4 days ago : refactor: optimize DataContext with Zustand, add automated tests, and fix Production Targets UI
+5b70783 - Giuseppe, 4 days ago : feat: Phase 4 Mobile Crew UX and PWA standalone
+6f45281 - Giuseppe, 5 days ago : fix: correct nested src structure and restore definitive code
+f80287d - Giuseppe, 5 days ago : feat: restore definitive refactored version with PWA and Polygon fix
+a2ef5b6 - Giuseppe, 5 days ago : feat: trasformazione PWA completa e ripristino poligoni PostGIS
+d4d1556 - Giuseppe, 5 days ago : chore: istituito protocollo MISSION CONTROL e ripristino poligoni PostGIS
+fe7fd0f - Giuseppe, 5 days ago : feat: blindatura permessi crew desktop e ottimizzazione mobile UX setup
+a686b53 - Giuseppe, 7 days ago : Initial commit for GK-DTW-M-N-ADW
